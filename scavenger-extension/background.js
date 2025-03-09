@@ -3,7 +3,7 @@ let state = {
   activeTabId: null,
   resourceMap: new Map(),
   captureStartTime: null,
-  backendUrl: "http://localhost:8080/api/resources"
+  backendUrl: "http://localhost:8080/api/upload"
 };
 
 // Initialize state from storage when service worker starts
