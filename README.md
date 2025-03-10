@@ -7,8 +7,8 @@ Collect and analyze websites code and sources for secrets and juicy information.
 ### CheckList
 
 - [-] Collection
-- [] Analyzing
-- [] UI
+- [-] Analyzing
+- [-] UI
 - [] Filters
 
 ### Usage
